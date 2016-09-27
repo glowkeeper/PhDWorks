@@ -12,6 +12,6 @@ A list of published papers and invited talks.
 
 ## Published Papers
 
-| Title | Date Published | 
-| ------| ---------------|
-| [Internet of Things, Blockchain and Shared Economy Applications]( http://authors.elsevier.com/sd/article/S1877050916322190 "Internet of Things, Blockchain and Shared Economy Applications") | 22nd September, 2016 |
+| Title | Date Published | Where | 
+| ------| ---------------| ------|
+| [Internet of Things, Blockchain and Shared Economy Applications]( http://authors.elsevier.com/sd/article/S1877050916322190 "Internet of Things, Blockchain and Shared Economy Applications") | 22nd September, 2016 | Elsevier, Procedia Computer Science, Volume 98, 2016, Pages 461–466. DOI:  10.1016/j.procs.2016.09.074 |
