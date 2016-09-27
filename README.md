@@ -10,8 +10,6 @@ A list of published papers and invited talks.
 | Internet of Things, Blockchain and Shared Economy Applications | 20th September, 2016 | [EUSPN 2016, DaMIS Workshop](http://143.225.211.50/damis/ "DaMIS"): International Workshop on Data Mining on IoT Systems, University of Surrey | 
 | Internet of Things and Blockchain Technology | 22nd September, 2016 | [Smart Summit London](http://www.iotsmartsummitlondon.com/ "Smart Summit London"), Kensington Olympia |
 
-INTERNET OF THINGS (IOT) AND BLOCKCHAIN TECHNOLOGY
-
 ## Published Papers
 
 | Title | Date Published | 
