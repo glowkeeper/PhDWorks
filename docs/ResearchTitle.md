@@ -10,7 +10,47 @@ Is Scott correct or can technology, such as blockchains, actually offer solution
 
 ## What Information Do I Need to Answer My Research Question?
 
-An interesting and well written summary.  I can see why you had some difficulty about how to revise the summary on the basis of the material covered in the second session of the course and because you have already progressed is beyond whether the exercise would be most useful.  It will be interesting to think what guidance the scientific method could provide to such a socio-technical political-economic theoretic analysis.
+My research question is, currently, very broad. It covers social, technical, political, economic and ethical topics and therein lies some pitfalls; is the research question too broad? After all, as the author Alexandre Dumas put it: "All generalizations are dangerous, even this one." [@deal_retiring_2007]. Therefore, I must be mindful of keeping the scope of my research question manageable. To do that, I feel I must be prescriptive about my work and approach it in a project-oriented manner. Hence, rather than, at this stage, asking what information do I need, it might be more useful to address how I envisage proceeding in order to gather the information required to answer my question. I propose using an agile, project-oriented, approach and addressing my question using scientific methods, even though some of my work borders on social research. For justification as to why I propose using scientific methods, I am going to appeal to Popper, who described science as comprising of methods of rational discussion whereby hypothesis are clearly stated and solutions examined critically [@popper_logic_2002]. That's exactly my intention here. Hence, I am going to borrow the broad outline of the scientifc method as described during a lecture on the Research Methods course, repeated here using pseudo code:
+
+    while [PhD]
+    do
+      Ask a question
+        Why is the question important?
+        Perform a literature review
+      Frame a hypothesis
+        Base the hypothesis on specific literature
+        Express it in terms of the operations used for proof
+      Derive a prediction and create the technology
+        Build models and prototypes
+      Gather evidence
+        Create and run an experiment, making observations
+        Test the technology
+      Evaluate the hypothesis against evidence
+        Interpret results for validity and scope
+      Disseminate findings
+    done
+
+I shall now address each task listed above.
+
+1. Ask a question
+
+I have already conducted an extensive literature review concerning the technical aspects of blockchains. Furthermore, I have also covered some of the political and economic aspects of the technology. However, I still need to include more of the social and ethical aspects of my research.
+
+2.  Frame a hypothesis
+
+Broadly, my hypothesis is shaping up to be something along the lines of: "Although blockchains may provide the technical basis upon which people could easily interact with distant strangers and collaborate at scale, there are significant social, ethical, and political barriers to their adoption." I will need to provide extensive literature references as proof of that hypothesis and the emergence of Digital Autonomous Organisations (DAO) [@slock.it_slock.it_2015] will provide excellent background material for that section of my research.
+
+3. Create the technology
+
+Fortunately, many examples of DAO technology exist as open source projects. Perhaps the best known of those is Slockit's The DAO [@slock.it_github_2016], which, in May 2016, became the largest crowdfunding campaign in history (but which failed due to a vulnerability in its codebase that was exploited by a hacker [@david_siegel_understanding_2016]). Such resources are a great source for deriving working technical models for creating the technology required.
+
+4. Gather evidence and evaluate the hypothesis against evidence
+
+Blockchains are new technology, so gathering evidence for proofing my hypothesis may be somewhat challenging and assessing the hypothesis in the wake of a lack of proof may be even more problematic. That section of my research will need to be conducted carefully and, as Popper suggests, critically.
+
+5. Disseminate findings
+
+I am aiming to disseminate my results incrementally; that is to say, I am going to try and publish papers regularly throughout my PhD studies. Hopefully, that will minimise the effort required for the final write up; or, as one of the lecturers in my office put it: "You'll be able to staple together your published papers and hand them in as your thesis." He wasn't entirely serious, but I got the message;  I am aiming to have a good few published papers listed at the front of my thesis to aid the defence of my work during its final review.
 
 ## How Will I Get That Information?
 
