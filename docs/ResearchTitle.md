@@ -8,4 +8,12 @@ My paper uses political theories as a means of explaining the technology. Howeve
 
 Is Scott correct or can technology, such as blockchains, actually offer solutions to, for example, the extreme poverty of Sub-Saharan Africa or the over-arching hyper-Capitalist models provided by the likes of Uber, which many regard as exploitative? In short, can technology be the basis for a fairer society? That question forms the basis for my research.
 
+## What Information Do I Need to Answer My Research Question?
+
+An interesting and well written summary.  I can see why you had some difficulty about how to revise the summary on the basis of the material covered in the second session of the course and because you have already progressed is beyond whether the exercise would be most useful.  It will be interesting to think what guidance the scientific method could provide to such a socio-technical political-economic theoretic analysis.
+
+## How Will I Get That Information?
+
+## How will I Know That the Information Is Valid and Reliable?
+
 ## References
