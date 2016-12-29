@@ -1,27 +1,26 @@
 1. Ask a question
 
-  – Why is it important / interesting?
-  – Relate to wider literature
++ Why is the question important?
++ Perform a literature review
 
 2. Frame a hypothesis
 
-  – Built on specific literature
-  – An operationalised research question
++ Base the hypothesis on specific literature
++ Express it in terms of the operations used for proof
 
-3. Derive a prediction / create technology
+3. Derive a prediction and create the technology
 
-  – Build models / prototype
++ Build models and prototypes
 
-4. Get evidence
+4. Gather evidence
 
-  – Set-up and run an experiment / make observations
-  – Test technology
++ Create and run an experiment, making observations
++ Test the technology
 
-5. Evaluate hypothesis against evidence, interpret results
+5. Evaluate hypothesis against evidence
 
-  – Validity and scope
++ Interpret results for validity and scope
 
-6. Dissemination interpreted findings
+6. Disseminate findings
 
-  – Loop back to 1-6
-    – Ad infinitum
+Repeat 1-6 ad infinitum
