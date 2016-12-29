@@ -32,23 +32,23 @@ My research question is, currently, very broad. It covers social, technical, pol
 
 I shall now address each task listed above.
 
-1. Ask a question
+### Ask a question
 
 I have already conducted an extensive literature review concerning the technical aspects of blockchains. Furthermore, I have also covered some of the political and economic aspects of the technology. However, I still need to include more of the social and ethical aspects of my research.
 
-2.  Frame a hypothesis
+### Frame a hypothesis
 
 Broadly, my hypothesis is shaping up to be something along the lines of: "Although blockchains may provide the technical basis upon which people could easily interact with distant strangers and collaborate at scale, there are significant social, ethical, and political barriers to their adoption." I will need to provide extensive literature references as proof of that hypothesis and the emergence of Digital Autonomous Organisations (DAO) [@slock.it_slock.it_2015] will provide excellent background material for that section of my research.
 
-3. Create the technology
+### Create the technology
 
 Fortunately, many examples of DAO technology exist as open source projects. Perhaps the best known of those is Slockit's The DAO [@slock.it_github_2016], which, in May 2016, became the largest crowdfunding campaign in history (but which failed due to a vulnerability in its codebase that was exploited by a hacker [@david_siegel_understanding_2016]). Such resources are a great source for deriving working technical models for creating the technology required.
 
-4. Gather evidence and evaluate the hypothesis against evidence
+### Gather evidence and evaluate the hypothesis against evidence
 
 Blockchains are new technology, so gathering evidence for proofing my hypothesis may be somewhat challenging and assessing the hypothesis in the wake of a lack of proof may be even more problematic. That section of my research will need to be conducted carefully and, as Popper suggests, critically.
 
-5. Disseminate findings
+### Disseminate findings
 
 I am aiming to disseminate my results incrementally; that is to say, I am going to try and publish papers regularly throughout my PhD studies. Hopefully, that will minimise the effort required for the final write up; or, as one of the lecturers in my office put it: "You'll be able to staple together your published papers and hand them in as your thesis." He wasn't entirely serious, but I got the message;  I am aiming to have a good few published papers listed at the front of my thesis to aid the defence of my work during its final review.
 
