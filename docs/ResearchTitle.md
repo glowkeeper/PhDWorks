@@ -10,12 +10,18 @@ Is Scott correct or can technology, such as blockchains, actually offer solution
 
 ## What Information Do I Need to Answer My Research Question?
 
-My research question is, currently, very broad. It covers social, technical, political, economic and ethical topics and therein lies some pitfalls; is the research question too broad? After all, as the author Alexandre Dumas put it: "All generalizations are dangerous, even this one." [@deal_retiring_2007]. Therefore, I must be mindful of keeping the scope of my research question manageable. To do that, I feel I must be prescriptive about my work and approach it in a project-oriented manner. Hence, rather than, at this stage, asking what information I need, it might be more useful to address how I envisage proceeding in order to gather the information required to answer my question. I propose using an agile, project-oriented, approach and addressing my question using scientific methods, even though some of my work borders on social research. For justification as to why I propose using scientific methods, I am going to appeal to Popper, who described science as comprising of methods of rational discussion whereby hypothesis are clearly stated and solutions examined critically [@popper_logic_2002]. That's exactly my intention here. Hence, I am going to borrow the broad outline of the scientifc method as described during a lecture on the Research Methods course, repeated here using pseudo code:
+My research question is, currently, very broad. Indeed, to answer it, I am going to have to draw information from fields as wide-ranging as sociology, technology, politics, economics and ethics. This is so because of the nature technology I am researching, which some commentators predict will have a profound effect on society [@swan_blockchain:_2015]. Furthermore, Gower tells us this: "What we know is influenced by and perhaps determined by socio-economic forces" [@gower_scientific_1997]. Thus, I feel such a wide-ranging approach to my research is justified. However, therein also lies danger because it may be too broad. After all, as the author Alexandre Dumas put it: "All generalizations are dangerous, even this one." [@deal_retiring_2007]. Therefore, I need to achieve some focus and be very prescriptive about my work. Hence, rather than, at this stage, detailing what information I need, it might be more useful to address how I intend gathering the information required to answer my question and keep the scope of my research manageable. To do so, I propose using an agile, project-oriented, strategy based on scientific methods. For justification, I am going to appeal to Popper, who described science as comprising of means of rational discussion based on a clearly stated hypothesis and critical examination of solutions [@popper_logic_2002]. Such a logical approach to research is my intention within my work. 
+
+## How Will I Get That Information?
+
+Rather than explicitly listing the disparate sources of information I will be able to use for my research, such as the University of Sussex's access to digital copies of academic papers via Scopus or my ability to keep up to date with the current state of blockchain technology via targeted keywords in Google Alerts [@google_google_2016], I thought I should outline my approach to my research, which will help focus my quest for information relative to my work. 
+
+As already discussed, even though some of my work will encompass social research, I am going to use scientific methods to help my answer my question. Indeed, I am going to enlist the broad approach described during a lecture on Research Methods [@peter_cheng_scientific_2016]. I am repeating it below using pseudo code:
 
     while [PhD]
     do
       Ask a question
-        Why is the question important?
+        Why is the question relevant?
         Perform a literature review
       Frame a hypothesis
         Base the hypothesis on specific literature
@@ -30,30 +36,37 @@ My research question is, currently, very broad. It covers social, technical, pol
       Disseminate findings
     done
 
-I shall now address each task listed above.
+To provide more detail of how my research will proceed, I will now ellicit each major task listed in the pseudo code above.
 
 ### Ask a question
 
-I have already conducted an extensive literature review concerning the technical aspects of blockchains. Furthermore, I have also covered some of the political and economic aspects of the technology. However, I still need to include more of the social and ethical aspects of my research.
+I have already written an extensive literature review concerning the technical aspects of blockchains. Furthermore, I have also covered some of the political and economic aspects of the technology in a paper I have had published [@huckle_socialism_2016]. However, to provide greater clarity to my research question, I still need to include more of the social and ethical aspects of my research.
 
 ### Frame a hypothesis
 
-Broadly, my hypothesis is shaping up to be something along the lines of: "Although blockchains may provide the technical basis upon which people could easily interact with distant strangers and collaborate at scale, there are significant social, ethical, and political barriers to their adoption." I will need to provide extensive literature references as proof of that hypothesis and the emergence of Digital Autonomous Organisations (DAO) [@slock.it_slock.it_2015] will provide excellent background material for that section of my research.
+Broadly, my hypothesis is shaping up to be something along the lines of: "Although blockchains may provide the technical basis upon which people could easily interact with distant strangers and collaborate at scale, there are significant social, ethical, and political barriers to their adoption." I will need to provide extensive literature references as proof of that hypothesis and the emergence of Digital Autonomous Organisations (DAO) [@slock.it_slock.it_2015] should provide excellent background material for that section of my research.
 
 ### Create the technology
 
-Fortunately, many examples of DAO technology exist as open source projects. Perhaps the best known of those is Slockit's The DAO [@slock.it_github_2016], which, in May 2016, became the largest crowdfunding campaign in history (but which failed due to a vulnerability in its codebase that was exploited by a hacker [@david_siegel_understanding_2016]). Such resources are a great source for deriving working technical models for creating the technology required.
+Fortunately, many examples of DAO technology exist as open source projects. Perhaps the best known of those is Slockit's _The DAO_ [@slock.it_github_2016], which, in May 2016, became the largest crowdfunding campaign in history (but which failed due to a vulnerability in its codebase that was exploited by a hacker [@david_siegel_understanding_2016]). Such resources are a great source for deriving working technical models for creating the technology required.
 
 ### Gather evidence and evaluate the hypothesis against evidence
 
-Blockchains are new technology, so gathering evidence for proofing my hypothesis may be somewhat challenging and assessing the hypothesis in the wake of a lack of proof may be even more problematic. That section of my research will need to be conducted carefully and, as Popper suggests, critically.
+Blockchains are new technology, so gathering evidence for proving my work may be somewhat challenging and assessing the hypothesis while lacking proof could be even more problematic. That section of my research will need careful and critical consideration.
 
 ### Disseminate findings
 
-I am aiming to disseminate my results incrementally; that is to say, I am going to try and publish papers regularly throughout my PhD studies. Hopefully, that will minimise the effort required for the final write up; or, as one of the lecturers in my office put it: "You'll be able to staple together your published papers and hand them in as your thesis." He wasn't entirely serious, but I got the message;  I am aiming to have a good few published papers listed at the front of my thesis to aid the defence of my work during its final review.
-
-## How Will I Get That Information?
+I am aiming to disseminate my results incrementally; that is to say, I am going to try and publish papers regularly throughout my PhD studies. The intention is to minimise the effort required for the final write up; or, as one of the lecturers in my office put it: "You'll be able to staple together your published papers and hand them in as your thesis." He wasn't entirely serious, but I got the message; I am aiming to have a good few published papers listed at the front of my thesis to aid the defence of my work during its final review.
 
 ## How will I Know That the Information Is Valid and Reliable?
+
+Once again, I will defer to Popper to provide the _traditional_ view of validating information while employing the scientific method for research: "a scientist, whether theorist or experimenter, puts forward statements, or systems of statements, and tests them step by step. In the field of the empirical sciences, more particularly, he constructs hypotheses, or systems of theories, and tests them against experience by observation and experiment" [@popper_logic_2002]. While part of my work will involve technology and, therefore, necessarily include testing and experimentation, a good deal more, that which requires social research, may well encompass theorising and an examination of observations. Such study will lead to many conclusions. Four basic types of logical relation will determine the validity of those findings:
+
+1. System consistency tested through a comparison of the findings 
+2. The investigation of the logical form of the theories to determine their character 
+3. A comparison with other theories
+4. An empirical application of the conclusions based on possible experience, which must represent an obvious, plausible explanation of the events observed [@popper_logic_2002]. 
+
+Given the social research nature of my research, Gower's description of the social character of the conclusions ellicited by Popper above, and the criticism often made of them, seems wholly appropriate: "Are the conclusions which are established by using scientific methods determined less by reason than by the social, political and economic environment within which the methods are endorsed?" [@gower_scientific_1997]. Gower dismisses such concerns; he describes the exploratory character of science and that experimentation can come from a variety of sources. Indeed, Gower writes that testing hypothesis involves identifying, stabilising and characterising natural phenomena, which requires initiative and skill based on a comprehensive, consistent approach to the scientific method, not an adherence to the idea that all science must, necessarily, involve experimentation derived within a laboratory environment. He does then, give further credence to my choice of the scientific method for carrying out my research and the use of its tools when validating my findings.
 
 ## References
