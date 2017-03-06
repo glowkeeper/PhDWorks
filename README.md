@@ -12,11 +12,11 @@ A list of published papers and invited talks.
 
 ## Published Papers
 
-| Title | Date Published | Where |
-| ------| ---------------| ------|
-| [Internet of Things, Blockchain and Shared Economy Applications](http://dx.doi.org/10.1016/j.procs.2016.09.074 "Internet of Things, Blockchain and Shared Economy Applications") | 22nd September, 2016 | Elsevier, Procedia Computer Science, Volume 98, 2016, Pages 461–466. DOI: [10.1016/j.procs.2016.09.074]( http://dx.doi.org/10.1016/j.procs.2016.09.074 "10.1016/j.procs.2016.09.074") |
-| [Socialism and the Blockchain]( http://www.mdpi.com/1999-5903/8/4/49 "Socialism and the Blockchain") | 18 October, 2016 | MDPI, Future Internet 2016, 8(4), 49; DOI: [10.3390/fi8040049](http://dx.doi.org/10.3390/fi8040049 "10.3390/fi8040049") |
-| [Towards a post-cash society: An application to convert fiat money into a cryptocurrency](http://firstmonday.org/ojs/index.php/fm/article/view/7410/6003 "Towards a post-cash society") |  6 March, 2017 | First Monday, Volume 22, Number 3, March 6 2017; DOI: [10.5210/fm.v22i3.7410]( http://dx.doi.org/10.5210/fm.v22i3.7410 "10.5210/fm.v22i3.7410") |
+| Title | Date Published | Where | DOI |
+| ------| ---------------| ------|-----|
+| [Internet of Things, Blockchain and Shared Economy Applications](http://dx.doi.org/10.1016/j.procs.2016.09.074 "Internet of Things, Blockchain and Shared Economy Applications") | 22nd September, 2016 | Elsevier, Procedia Computer Science, Volume 98, 2016, Pages 461–466 | [10.1016/j.procs.2016.09.074]( http://dx.doi.org/10.1016/j.procs.2016.09.074 "10.1016/j.procs.2016.09.074") |
+| [Socialism and the Blockchain]( http://www.mdpi.com/1999-5903/8/4/49 "Socialism and the Blockchain") | 18 October, 2016 | MDPI, Future Internet 2016, 8(4), 49 | [10.3390/fi8040049](http://dx.doi.org/10.3390/fi8040049 "10.3390/fi8040049") |
+| [Towards a post-cash society: An application to convert fiat money into a cryptocurrency](http://firstmonday.org/ojs/index.php/fm/article/view/7410/6003 "Towards a post-cash society") |  6 March, 2017 | First Monday, Volume 22, Number 3, March 6 2017 | [10.5210/fm.v22i3.7410]( http://dx.doi.org/10.5210/fm.v22i3.7410 "10.5210/fm.v22i3.7410") |
 
 ## Training 
 
