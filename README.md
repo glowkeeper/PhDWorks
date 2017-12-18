@@ -1,6 +1,6 @@
-# Steve Huckle's PhD Outputs
+# Steve Huckle's PhD
 
-A list of published papers and invited talks.
+A list of my published papers and invited talks.
 
 ## Invited Talks
 
