@@ -8,7 +8,7 @@ A list of published papers and invited talks.
 | ------| -----| ------|
 | Internet of Things and Blockchain Technology | 22nd September, 2016 | [Smart Summit London](http://www.iotsmartsummitlondon.com/ "Smart Summit London"), Kensington Olympia |
 | Internet of Things, Blockchain and Shared Economy Applications | 20th September, 2016 | [EUSPN 2016, DaMIS Workshop](http://143.225.211.50/damis/ "DaMIS"): International Workshop on Data Mining on IoT Systems, University of Surrey |
-| Blockchain | 9th May, 2016 | CTG Launch, University of Sussex |
+| Blockchain Technology | 9th May, 2016 | Launch of the [Creative Technology Group](http://www.sussex.ac.uk/creativetechnology/) at the [University of Sussex](http://www.sussex.ac.uk/) |
 
 ## Published Journal Papers
 
