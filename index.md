@@ -9,7 +9,8 @@ A list of works produced during Steven Huckle's PhD, including invited talks, pu
 | Internet of Things, Blockchain and Shared Economy Applications | 20th September, 2016 | [EUSPN 2016, DaMIS Workshop](http://143.225.211.50/damis/ "DaMIS"): International Workshop on Data Mining on IoT Systems, University of Surrey |
 | Blockchain Technology | 9th May, 2016 | Launch of the [Creative Technology Group](http://www.sussex.ac.uk/creativetechnology/) at the [University of Sussex](http://www.sussex.ac.uk/) |
 
-<p>[The presentation](https://github.com/glowkeeper/dApp-Development) given at the Wired Sussex Workshop - Introduction to Blockchain Application Development</p>
+<p>&nbsp;</p>
+[The presentation](https://github.com/glowkeeper/dApp-Development) given at the Wired Sussex Workshop - Introduction to Blockchain Application Development.
 
 _Introducing the Workshop at Wired Sussex_
 
