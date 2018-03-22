@@ -2,15 +2,14 @@ A list of works produced during Steven Huckle's PhD, including invited talks, pu
 
 ## Invited Talks
 
-| Title | Date | Where |
-|:------|:-----|:------|
-| [Introduction to Blockchain Application Development](https://www.eventbrite.co.uk/e/intro-to-blockchain-application-development-for-beginners-tickets-42564510597#) | 19th March, 2018 | Wired Sussex, Digital Catapult, Brighton - The FuseBox, Level 4 North, New England House, New England Street, Brighton, BN1 4GH |
-| Internet of Things and Blockchain Technology | 22nd September, 2016 | [Smart Summit London](http://www.iotsmartsummitlondon.com/ "Smart Summit London"), Kensington Olympia |
-| Internet of Things, Blockchain and Shared Economy Applications | 20th September, 2016 | [EUSPN 2016, DaMIS Workshop](http://143.225.211.50/damis/ "DaMIS"): International Workshop on Data Mining on IoT Systems, University of Surrey |
-| Blockchain Technology | 9th May, 2016 | Launch of the [Creative Technology Group](http://www.sussex.ac.uk/creativetechnology/) at the [University of Sussex](http://www.sussex.ac.uk/) |
+| Title | Date | Where | Presentation |
+|:------|:-----|:------|:-------------|
+| [Introduction to Blockchain Application Development](https://www.eventbrite.co.uk/e/intro-to-blockchain-application-development-for-beginners-tickets-42564510597#) | 19th March, 2018 | Wired Sussex, Digital Catapult, Brighton - The FuseBox, Level 4 North, New England House, New England Street, Brighton, BN1 4GH | [Introduction to Blockchain Application Development](https://github.com/glowkeeper/dApp-Development) |
+| Internet of Things and Blockchain Technology | 22nd September, 2016 | [Smart Summit London](http://www.iotsmartsummitlondon.com/ "Smart Summit London"), Kensington Olympia | &nbsp; |
+| Internet of Things, Blockchain and Shared Economy Applications | 20th September, 2016 | [EUSPN 2016, DaMIS Workshop](http://143.225.211.50/damis/ "DaMIS"): International Workshop on Data Mining on IoT Systems, University of Surrey | &nbsp; |
+| Blockchain Technology | 9th May, 2016 | Launch of the [Creative Technology Group](http://www.sussex.ac.uk/creativetechnology/) at the [University of Sussex](http://www.sussex.ac.uk/) | &nbsp; |
 
 <p>&nbsp;</p>
-[The presentation](https://github.com/glowkeeper/dApp-Development) given at the Wired Sussex Workshop - Introduction to Blockchain Application Development.
 
 _Introducing the Workshop at Wired Sussex_
 
