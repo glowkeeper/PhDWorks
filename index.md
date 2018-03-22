@@ -54,4 +54,4 @@ _Introducing Distributed App' (dApp) Development at the Wired Sussex Workshop_
 
 | Title | Date | Where |
 |:------|:-----|:------|
-| Topics in Computer Science (Blockchain Development for Shared Economy Applications) | 4 x 1 hour lectures on 28/11/16, 1/12/16, 5/12/16 and 8/12/16 | University of Sussex |
+| Topics in Computer Science (Blockchain Development for Shared Economy Applications) | 4 x 1 hour lectures on 28/11/16, 1/12/16, 5/12/16 and 8/12/16 | [University of Sussex](http://www.sussex.ac.uk/) |
