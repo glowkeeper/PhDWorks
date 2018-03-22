@@ -1,4 +1,4 @@
-A list of works produced during Steven Huckle's PhD. That includes invited talks, published papers, training given and lectures.
+A list of works produced during Steven Huckle's PhD, including invited talks, published papers and lectures.
 
 ## Invited Talks
 
@@ -45,7 +45,7 @@ _Introducing Distributed App' (dApp) Development at the Wired Sussex Workshop_
 
 | Title | Date | Where |
 |:------|:-----|:------|
-| Blockchain Development for Shared Economy Applications | 5th December, 2016 | AMEX, Burgess Hill |
+| Blockchain Development for Shared Economy Applications | 5th December, 2016 | American Express, Burgess Hill |
 
 <p>&nbsp;</p>
 
