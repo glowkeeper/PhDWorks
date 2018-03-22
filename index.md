@@ -8,6 +8,7 @@ A list of works produced during Steven Huckle's PhD, including invited talks, pu
 | Internet of Things and Blockchain Technology | 22nd September, 2016 | [Smart Summit London](http://www.iotsmartsummitlondon.com/ "Smart Summit London"), Kensington Olympia | [Internet of Things and Blockchain Technology](https://github.com/glowkeeper/DaMIS-Presentation) |
 | Internet of Things, Blockchain and Shared Economy Applications | 20th September, 2016 | [EUSPN 2016, DaMIS Workshop](http://143.225.211.50/damis/ "DaMIS"): International Workshop on Data Mining on IoT Systems, University of Surrey | [Internet of Things and Blockchain Technology](https://github.com/glowkeeper/DaMIS-Presentation) |
 | Blockchain Technology | 9th May, 2016 | Launch of the [Creative Technology Group](http://www.sussex.ac.uk/creativetechnology/) at the [University of Sussex](http://www.sussex.ac.uk/) | [Blockchain Technology and the Internet of Things](https://github.com/glowkeeper/Creative-Technology-Group-Blockchain-Presentation) |
+| Evaluating Bitcoin as an Open Source Project | 6th May, 2016 | [university of Sussex](http://www.sussex.ac.uk/) seminar on [Information and Communication Technology Policy and Strategy](http://www.sussex.ac.uk/bmec/internal/departments/spru/pgcourses/2016/L1520T/62854) | [Evaluating Bitcoin as an Open Source Project](https://github.com/glowkeeper/Bitcoin-Presentation) |
 
 <p>&nbsp;</p>
 
