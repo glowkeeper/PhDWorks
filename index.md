@@ -1,6 +1,6 @@
-# Steve Huckle's PhD
+# Steven Huckle's PhD
 
-A list of my published papers and invited talks.
+A list of works produced during Steven Huckle's PhD. That includes invited talks, published papers, training given and lectures.
 
 ## Invited Talks
 
