@@ -1,0 +1,20 @@
+theme: jekyll-theme-tactile
+exclude: ["README.md", "License.md"]
+title: PhD Outputs
+description: Talks, Papers, Lectures
+authors: Steven Huckle
+name: Steven Huckle
+email: steve.huckle@gmail.com
+github: glowkeeper
+twitter: stevehuckle
+#production_url : https://glowkeeper.github.io
+#BASE_PATH : https://glowkeeper.github.io
+comments:
+  provider: false
+analytics:
+  provider: false
+sharing:
+ provider : false
+markdown: kramdown
+# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
+permalink: pretty
