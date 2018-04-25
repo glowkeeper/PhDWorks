@@ -1,4 +1,4 @@
-A list of works produced during Steven Huckle's PhD, including invited talks, published papers and lectures.
+A list of works produced during Steven Huckle's PhD at the [University of Sussex](http://www.sussex.ac.uk/).
 
 ## Invited Talks
 
@@ -42,7 +42,7 @@ _Introducing Distributed App' (dApp) Development at the Wired Sussex Workshop_
 
 | Poster | Date | Where |
 |:-------|:-----|:------|
-| [Are Blockchains the Means By Which We Can Collaborate?](/docs/poster120717.pdf) | Wednesday 12th July, 2017  | Chichester 1, University of Sussex |
+| [Are Blockchains the Means By Which We Can Collaborate?](/docs/poster120717.pdf) | Wednesday 12th July, 2017  | Chichester 1, [University of Sussex](http://www.sussex.ac.uk/) |
 
 ## Training
 
