@@ -46,8 +46,7 @@ _Introducing Distributed App' (dApp) Development at the Wired Sussex Workshop_
 
 | Poster | Date | Where |
 |:-------|:-----|:------|
-| [Are Blockchains the Means By Which We Can
-Collaborate?](/docs/poster120717.pdf) | Wednesday 12th July, 2017  | Chichester 1, University of Sussex |
+| [Are Blockchains the Means By Which We Can Collaborate?](/docs/poster120717.pdf) | Wednesday 12th July, 2017  | Chichester 1, University of Sussex |
 
 ## Training
 
