@@ -2,7 +2,7 @@
 title: Steven Huckle
 ---
 
-A list of works produced during Steven Huckle's PhD at the [University of Sussex](http://www.sussex.ac.uk/).
+A list of works produced during my PhD at the [University of Sussex](http://www.sussex.ac.uk/).
 
 ## Invited Talks
 

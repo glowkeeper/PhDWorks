@@ -14,7 +14,7 @@ table {
 
 th,
 td {
-  border-bottom: none;
+  border-bottom: 1px solid $border-color;;
 }
 
 th {
@@ -31,5 +31,4 @@ tr,
 td,
 th {
   vertical-align: middle;
-  border: none;
 }
