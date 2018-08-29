@@ -1,5 +1,5 @@
 ---
-title: Steven Huckle
+title: PhD Outputs
 ---
 
 A list of works produced during my PhD at the [University of Sussex](http://www.sussex.ac.uk/).
