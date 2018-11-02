@@ -18,6 +18,14 @@ A list of works produced during my PhD at the [University of Sussex](http://www.
 |:------|:---------------|:----------|:------|:----|
 | [Internet of Things, Blockchain and Shared Economy Applications](http://dx.doi.org/10.1016/j.procs.2016.09.074 "Internet of Things, Blockchain and Shared Economy Applications") | 22nd September, 2016 | Elsevier | Procedia Computer Science, Volume 98, 2016, Pages 461–466 | [10.1016/j.procs.2016.09.074]( http://dx.doi.org/10.1016/j.procs.2016.09.074 "10.1016/j.procs.2016.09.074") |
 
+## Applications
+
+| App' | Description |
+|:-----|:------------|
+| [Provenator](https://github.com/glowkeeper/Provenator) | A prototype distributed application (dApp) for proving the origins of captured digital media |
+| [MicroMorpher](https://github.com/glowkeeper/Micromorpher) | A distributed token exchange |
+| [ReportAid](https://github.com/glowkeeper/ReportAid) | A blockchain-based tool for humanitarian aid reporting |
+
 ## Invited Talks
 
 | Title | Info' | Date | Where | Presentation |
