@@ -18,6 +18,12 @@ A list of works produced during my PhD at the [University of Sussex](http://www.
 |:------|:---------------|:----------|:------|:----|
 | [Internet of Things, Blockchain and Shared Economy Applications](http://dx.doi.org/10.1016/j.procs.2016.09.074 "Internet of Things, Blockchain and Shared Economy Applications") | 22nd September, 2016 | Elsevier | Procedia Computer Science, Volume 98, 2016, Pages 461–466 | [10.1016/j.procs.2016.09.074]( http://dx.doi.org/10.1016/j.procs.2016.09.074 "10.1016/j.procs.2016.09.074") |
 
+## Published Independent Media Articles
+
+| Title | Date Published | Publisher |
+|:------|:---------------|:----------|
+| [Bitcoin’s high energy consumption is a concern – but it may be a price worth paying](https://theconversation.com/bitcoins-high-energy-consumption-is-a-concern-but-it-may-be-a-price-worth-paying-106282) | 7th November, 2018 | [The Conversation](https://theconversation.com/uk) |
+
 ## Applications
 
 | App' | Description |
