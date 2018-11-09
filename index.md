@@ -47,17 +47,13 @@ A list of works produced during my PhD at the [University of Sussex](http://www.
 
 ### Photos from the Invited Talks
 
+_Fake News and Blockchains at the University of Sussex's Digital Discovery Week_
+
+![](images/digitalDiscoveryFakeNews.jpg)
+
 _Introducing the Workshop at Wired Sussex_
 
 ![](images/dCBrighton190318.png)
-
-_A Brief Overview of Blockchains at the Wired Sussex Workshop_
-
-![](images/dCBrighton190318_2.png)
-
-_Introducing Distributed App' (dApp) Development at the Wired Sussex Workshop_
-
-![](images/dCBrighton190318_3.png)
 
 ## Poster Presentations
 
