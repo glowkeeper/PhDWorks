@@ -63,7 +63,7 @@ _Fake News and Blockchains at the University of Sussex's Digital Discovery Week_
 
 ![](images/digitalDiscoveryFakeNews.jpg)
 
-_Introducing the Workshop at Wired Sussex_
+_Introduction to Blockchain Application Development at [Wired Sussex](https://www.wiredsussex.com/)_
 
 ![](images/dCBrighton190318.png)
 
