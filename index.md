@@ -6,15 +6,13 @@ A list of works produced during Steven Huckle's PhD at the [University of Sussex
 
 ## Software
 
-[Enervator](https://github.com/glowkeeper/Enervator) (EOR) is a proposal for a cryptocurrency that incentivises energy efficiency and Eneradmin and Enerchanger showcase [Enervator](https://github.com/glowkeeper/Enervator) and demonstrate the exchange of a sovereign currency for a cryptocurrency. [Provenator](https://github.com/glowkeeper/Provenator) creates provenance metadata that verifies the authorship and rights of digital media. [ReportAid](https://github.com/glowkeeper/ReportAid) is a blockchain-based humanitarian aid reporting application.
-
 ![](images/allFiveArtefacts.png)
 
 ### Cryptocurrency Token
 
 | Token | Description | Rinkeby Test Network Address |
 |:-----|:-------------|:-----------------------------|
-| [Enervator](https://github.com/glowkeeper/Enervator) | A cryptocurrency that incentivises energy efficiency | [0x5483b2996bba07330e188fe10bb101d4c1ac8530](https://rinkeby.etherscan.io/token/0x5483b2996bba07330e188fe10bb101d4c1ac8530) |
+| [Enervator](https://github.com/glowkeeper/Enervator) (EOR) | A cryptocurrency that incentivises energy efficiency | [0x5483b2996bba07330e188fe10bb101d4c1ac8530](https://rinkeby.etherscan.io/token/0x5483b2996bba07330e188fe10bb101d4c1ac8530) |
 
 ### Applications
 
@@ -24,8 +22,8 @@ To load the app's below, you will need to be running [Firefox](https://www.mozil
 |:-----|:------------|:-----------------------------|
 | Eneradmin | Manages the supply of [EOR](https://rinkeby.etherscan.io/token/0x5483b2996bba07330e188fe10bb101d4c1ac8530/) and allows the setting and reading of the token's value parameters | [http://bcd1e0c422401c3591fb3a347aaa0d73b7faff797a21b15edabf0ca214157ccb](http://bcd1e0c422401c3591fb3a347aaa0d73b7faff797a21b15edabf0ca214157ccb/) |
 | Enerchanger | Simulates depositing cash and buying [EOR](https://rinkeby.etherscan.io/token/0x5483b2996bba07330e188fe10bb101d4c1ac8530/) | [http://795f83fa1356cd7d00e5cfe8f1a93f32c55127684c6fc4cb8ff89a32e000016b](http://795f83fa1356cd7d00e5cfe8f1a93f32c55127684c6fc4cb8ff89a32e000016b/) |
-| [ReportAid](https://github.com/glowkeeper/ReportAid) | A blockchain-based tool for humanitarian aid reporting | [http://4b1bdf7b0f6beeadab5dadaf019cddbc94f618792ea30b8a2f5d957267d5bd92/](http://4b1bdf7b0f6beeadab5dadaf019cddbc94f618792ea30b8a2f5d957267d5bd92/) |
-| [Provenator](https://github.com/glowkeeper/Provenator) | A prototype distributed application (dApp) for proving the origins of captured digital media | [http://31ce36ba92b26fa274537c5a63a6b895bdaddb6621a675ec616dbc17c01e5ee9](http://31ce36ba92b26fa274537c5a63a6b895bdaddb6621a675ec616dbc17c01e5ee9/) |
+| [ReportAid](https://github.com/glowkeeper/ReportAid) | A blockchain-based distributed application (dApp) for humanitarian aid reporting | [http://4b1bdf7b0f6beeadab5dadaf019cddbc94f618792ea30b8a2f5d957267d5bd92/](http://4b1bdf7b0f6beeadab5dadaf019cddbc94f618792ea30b8a2f5d957267d5bd92/) |
+| [Provenator](https://github.com/glowkeeper/Provenator) | A dApp for proving the origins of captured digital media | [http://31ce36ba92b26fa274537c5a63a6b895bdaddb6621a675ec616dbc17c01e5ee9](http://31ce36ba92b26fa274537c5a63a6b895bdaddb6621a675ec616dbc17c01e5ee9/) |
 
 ## Published Journal Papers
 
