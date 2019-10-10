@@ -26,7 +26,7 @@ A list of works produced during Steven Huckle's PhD at the [University of Sussex
 
 ## Software
 
-Below details the software created. [Enervator](https://github.com/glowkeeper/Enervator) (EOR) is a proposal for a cryptocurrency that incentivises energy efficiency and Eneradmin and Enerchanger showcase [Enervator](https://github.com/glowkeeper/Enervator) and demonstrate the exchange of a sovereign currency for a cryptocurrency. [Provenator](https://github.com/glowkeeper/Provenator) creates provenance metadata that verifies the authorship and rights of digital media. [ReportAid](https://github.com/glowkeeper/ReportAid) is a blockchain-based humanitarian aid reporting application.
+[Enervator](https://github.com/glowkeeper/Enervator) (EOR) is a proposal for a cryptocurrency that incentivises energy efficiency and Eneradmin and Enerchanger showcase [Enervator](https://github.com/glowkeeper/Enervator) and demonstrate the exchange of a sovereign currency for a cryptocurrency. [Provenator](https://github.com/glowkeeper/Provenator) creates provenance metadata that verifies the authorship and rights of digital media. [ReportAid](https://github.com/glowkeeper/ReportAid) is a blockchain-based humanitarian aid reporting application.
 
 ![](images/allFiveArtefacts.png)
 
@@ -38,16 +38,16 @@ Below details the software created. [Enervator](https://github.com/glowkeeper/En
 
 ### Applications
 
-To run these live demos, you will need to be running [Firefox](https://www.mozilla.org/) with the [Dat P2P Protocol](https://addons.mozilla.org/en-GB/firefox/addon/dat-p2p-protocol/) and [MetaMask](https://metamask.io/) extensions installed. [MetaMask](https://metamask.io/) should be pointing at the Rinkeby Test Network, and you will need a few test Ether in your [MetaMask](https://metamask.io/) wallet - you can get those from the [Rinkeby Faucet](https://faucet.rinkeby.io/).
+To load the app's below, you will need to be running [Firefox](https://www.mozilla.org/) with the [Dat P2P Protocol](https://addons.mozilla.org/en-GB/firefox/addon/dat-p2p-protocol/) and [MetaMask](https://metamask.io/) extensions installed. [MetaMask](https://metamask.io/) should be pointing at the Rinkeby Test Network, and you will need a few test Ether in your [MetaMask](https://metamask.io/) wallet - you can get those from the [Rinkeby Faucet](https://faucet.rinkeby.io/).
 
 | App' | Description | URL |
 |:-----|:------------|:-----------------------------|
 | Eneradmin | Manages the supply of [EOR](https://rinkeby.etherscan.io/token/) and allows the setting and reading of the token's value parameters | [http://bcd1e0c422401c3591fb3a347aaa0d73b7faff797a21b15edabf0ca214157ccb](http://bcd1e0c422401c3591fb3a347aaa0d73b7faff797a21b15edabf0ca214157ccb/) |
 | Enerchanger | Simulates depositing cash and buying [EOR](https://rinkeby.etherscan.io/token/) | [http://795f83fa1356cd7d00e5cfe8f1a93f32c55127684c6fc4cb8ff89a32e000016b](http://795f83fa1356cd7d00e5cfe8f1a93f32c55127684c6fc4cb8ff89a32e000016b/) |
-| [ReportAid](https://github.com/glowkeeper/ReportAid) | A blockchain-based tool for humanitarian aid reporting | [http://31ce36ba92b26fa274537c5a63a6b895bdaddb6621a675ec616dbc17c01e5ee9](http://31ce36ba92b26fa274537c5a63a6b895bdaddb6621a675ec616dbc17c01e5ee9/) |
-| [Provenator](https://github.com/glowkeeper/Provenator) | A prototype distributed application (dApp) for proving the origins of captured digital media | [http://4b1bdf7b0f6beeadab5dadaf019cddbc94f618792ea30b8a2f5d957267d5bd92/](http://4b1bdf7b0f6beeadab5dadaf019cddbc94f618792ea30b8a2f5d957267d5bd92/) |
+| [ReportAid](https://github.com/glowkeeper/ReportAid) | A blockchain-based tool for humanitarian aid reporting | [http://4b1bdf7b0f6beeadab5dadaf019cddbc94f618792ea30b8a2f5d957267d5bd92/](http://4b1bdf7b0f6beeadab5dadaf019cddbc94f618792ea30b8a2f5d957267d5bd92/) |
+| [Provenator](https://github.com/glowkeeper/Provenator) | A prototype distributed application (dApp) for proving the origins of captured digital media | [http://31ce36ba92b26fa274537c5a63a6b895bdaddb6621a675ec616dbc17c01e5ee9](http://31ce36ba92b26fa274537c5a63a6b895bdaddb6621a675ec616dbc17c01e5ee9/) |
 
-## Invited Talks
+## Public Speaking
 
 | Title | Info' | Date | Where | Presentation |
 |:------|:------|:-----|:------|:-------------|
@@ -61,8 +61,6 @@ To run these live demos, you will need to be running [Firefox](https://www.mozil
 | _Internet of Things, Blockchain and Shared Economy Applications_ | An overview of some of the concepts introduced in the paper [Internet of Things, Blockchain and Shared Economy Applications](http://dx.doi.org/10.1016/j.procs.2016.09.074 "Internet of Things, Blockchain and Shared Economy Applications") | 20th September, 2016 | [EUSPN 2016, DaMIS Workshop](http://143.225.211.50/damis/ "DaMIS"): International Workshop on Data Mining on IoT Systems, University of Surrey | [Internet of Things and Blockchain Technology](https://github.com/glowkeeper/DaMIS-Presentation) |
 | _Blockchain Technology_ | Overview of blockchains, given at the launch of the [Creative Technology Group](http://www.sussex.ac.uk/creativetechnology/) at the [University of Sussex](http://www.sussex.ac.uk/) | 9th May, 2016 | Launch of the [Creative Technology Group](http://www.sussex.ac.uk/creativetechnology/) at the [University of Sussex](http://www.sussex.ac.uk/) | [Blockchain Technology and the Internet of Things](https://github.com/glowkeeper/Creative-Technology-Group-Blockchain-Presentation) |
 | _Evaluating Bitcoin as an Open Source Project_ | A presentation given to the students on the University of Sussex's Science Policy Research Unit's MSc Module, _ICT Policy and Strategy_ | 6th May, 2016 | [University of Sussex](http://www.sussex.ac.uk/) seminar on [Information and Communication Technology Policy and Strategy](http://www.sussex.ac.uk/bmec/internal/departments/spru/pgcourses/2016/L1520T/62854) | [Evaluating Bitcoin as an Open Source Project](https://github.com/glowkeeper/Bitcoin-Presentation) |
-
-### Some Photos from the Invited Talks
 
 _Enervator - Incentivising Energy Efficiency Innovation forum, Energy Services Business Models, held by the [UK Centre for Research into Energy Demand Solutions](http://www.sussex.ac.uk/spru/research/projects/creds) at [The Fusebox, Brighton](https://thefuseboxbrighton.com/)_
 
