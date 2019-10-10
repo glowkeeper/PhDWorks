@@ -34,7 +34,7 @@ Below details the software created. [Enervator](https://github.com/glowkeeper/En
 
 | Token | Description | Rinkeby Test Network Address |
 |:-----|:-------------|:-----------------------------|
-| [Enervator](https://github.com/glowkeeper/Enervator) | A cryptocurrency that incentivises energy efficiency | [0x5483b2996bba07330e188fe10bb101d4c1ac8530](https://rinkeby.etherscan.io/token/) |
+| [Enervator](https://github.com/glowkeeper/Enervator) | A cryptocurrency that incentivises energy efficiency | [0x5483b2996bba07330e188fe10bb101d4c1ac8530](https://rinkeby.etherscan.io/token/0x5483b2996bba07330e188fe10bb101d4c1ac8530) |
 
 ### Applications
 
