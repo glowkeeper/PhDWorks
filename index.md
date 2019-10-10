@@ -90,7 +90,7 @@ _Introduction to Blockchain Application Development at [Wired Sussex](https://ww
 |:------|:-----|:------|
 | Topics in Computer Science (Blockchain Development for Shared Economy Applications) | 4 x 1 hour lectures on 28/11/16, 1/12/16, 5/12/16 and 8/12/16 | [University of Sussex](http://www.sussex.ac.uk/) |
 
-Copyright © Steven Huckle, 2016-2018.
+Copyright © Steven Huckle, 2019.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="CC-BY-NC-SA 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 Unless otherwise stated, the works here are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0). They are attributed to Steven Huckle. The license lets you remix, tweak, and build upon the work non-commercially, as long as you credit Steven Huckle and license your new creations under identical terms.
