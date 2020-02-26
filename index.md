@@ -89,6 +89,7 @@ _Introduction to Blockchain Application Development at [Wired Sussex](https://ww
 
 | Title | Date | Where |
 |:------|:-----|:------|
+| [An Introduction to GitHub](https://github.com/glowkeeper/gitHubPresentation/blob/master/presentation/github.md) | A one hour lecture to Second Year Computer Science Undergraduates, for a Software Engineering module | [University of Sussex](http://www.sussex.ac.uk/) |
 | Topics in Computer Science (Blockchain Development for Shared Economy Applications) | 4 x 1 hour lectures on 28/11/16, 1/12/16, 5/12/16 and 8/12/16 | [University of Sussex](http://www.sussex.ac.uk/) |
 
 Copyright © Steven Huckle, 2019.
