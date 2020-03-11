@@ -1,4 +1,4 @@
-Copyright © Steve Huckle, 2017-2018.
+Copyright © Steve Huckle, 2017-2020.
 
 ![CC-BY-NC-SA 4.0 International](images/ccbyncsa.png)
 

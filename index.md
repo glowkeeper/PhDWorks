@@ -2,7 +2,11 @@
 title: PhD Works
 ---
 
-A list of works produced during Steven Huckle's PhD at the [University of Sussex](http://www.sussex.ac.uk/). Some of the text and images shown below borrow excerpts from that work.
+A list of works produced during my PhD at the [University of Sussex](http://www.sussex.ac.uk/).
+
+## Thesis
+
+[Cryptocurrencies and Beyond: Using Design Science Research to Demonstrate Diverse Applications of Blockchains](/assets/docs/sHuckleThesis.pdf)
 
 ## Software
 
@@ -77,7 +81,7 @@ _Introduction to Blockchain Application Development at [Wired Sussex](https://ww
 
 | Poster | Date | Where |
 |:-------|:-----|:------|
-| [Are Blockchains the Means By Which We Can Collaborate?](/docs/poster120717.pdf) | Wednesday 12th July, 2017  | Chichester 1, [University of Sussex](http://www.sussex.ac.uk/) |
+| [Are Blockchains the Means By Which We Can Collaborate?](/assets/docs/poster120717.pdf) | Wednesday 12th July, 2017  | Chichester 1, [University of Sussex](http://www.sussex.ac.uk/) |
 
 ## Training
 
@@ -92,7 +96,7 @@ _Introduction to Blockchain Application Development at [Wired Sussex](https://ww
 | [An Introduction to GitHub](https://github.com/glowkeeper/gitHubPresentation/blob/master/presentation/github.md) | A one hour lecture to Second Year Computer Science Undergraduates, for a Software Engineering module | [University of Sussex](http://www.sussex.ac.uk/) |
 | Topics in Computer Science (Blockchain Development for Shared Economy Applications) | 4 x 1 hour lectures on 28/11/16, 1/12/16, 5/12/16 and 8/12/16 | [University of Sussex](http://www.sussex.ac.uk/) |
 
-Copyright © Steven Huckle, 2019.
+Copyright © Steven Huckle, 2020.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="CC-BY-NC-SA 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 Unless otherwise stated, the works here are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0). They are attributed to Steven Huckle. The license lets you remix, tweak, and build upon the work non-commercially, as long as you credit Steven Huckle and license your new creations under identical terms.
